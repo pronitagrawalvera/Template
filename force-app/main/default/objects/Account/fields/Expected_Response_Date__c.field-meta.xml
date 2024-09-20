@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><label>Expected Response Date</label><fullName>Expected_Response_Date__c</fullName><description>Date field for when we expected the donor to make a decision on the proposal.</description><inlineHelpText>When we expected the donor to make a decision on the proposal.</inlineHelpText><required>false</required><externalId>false</externalId><trackTrending>false</trackTrending><type>Date</type></CustomField>

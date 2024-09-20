@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><label>Agreement Signed Date</label><fullName>Agreement_Signed_Date__c</fullName><description>Date field for when the agreement is signed by all parties.</description><inlineHelpText>When the agreement is signed by all parties.</inlineHelpText><required>false</required><externalId>false</externalId><trackTrending>false</trackTrending><type>Date</type></CustomField>

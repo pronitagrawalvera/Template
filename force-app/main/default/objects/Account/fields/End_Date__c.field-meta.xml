@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><label>End Date</label><fullName>End_Date__c</fullName><description>Date field for when the activities and expenditures should end.</description><inlineHelpText>When activities and expenditures should end.</inlineHelpText><required>false</required><externalId>false</externalId><trackTrending>false</trackTrending><type>Date</type></CustomField>

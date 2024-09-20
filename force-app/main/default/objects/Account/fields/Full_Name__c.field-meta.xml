@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata"><label>Funding Opportunity Full Name</label><fullName>Full_Name__c</fullName><description>Text area field to allow users to input the full name of a funding opportunity beyond just the ID.</description><inlineHelpText>Type in the full name of the funding opportunity as per WVI naming conventions.</inlineHelpText><required>false</required><externalId>false</externalId><trackTrending>false</trackTrending><type>TextArea</type></CustomField>
